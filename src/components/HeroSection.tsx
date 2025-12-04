@@ -54,7 +54,7 @@ export const HeroSection = () => {
         
         {/* Name */}
         <h1 className="text-6xl md:text-8xl font-bold mb-6 gradient-text">
-          Web Developer
+          Next-Gen Developer
         </h1>
         
         {/* Tagline */}
